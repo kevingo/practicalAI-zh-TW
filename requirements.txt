@@ -1,5 +1,5 @@
 argparse==1.4.0
-django==2.1.6
+django==2.2.10
 gensim==3.6.0
 image==1.5.27
 jsonschema==2.6.0
