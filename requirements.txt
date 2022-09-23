@@ -9,7 +9,7 @@ nltk==3.2.5
 numpy==1.14.6
 pandas==0.22.0
 Pillow==4.0.0
-protobuf==3.6.1
+protobuf==3.18.3
 qtconsole==4.4.3
 regex==2017.11.9
 requests==2.20.0
